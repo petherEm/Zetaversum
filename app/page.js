@@ -9,10 +9,12 @@ import {
   WhatsNew,
   World,
 } from "../sections";
+import Training from "../components/Training";
 
 const Page = () => (
   <div className="bg-primary-black overflow-hidden">
     <Navbar />
+    <Training />
     <Hero />
     <div className="relative">
       <About />
