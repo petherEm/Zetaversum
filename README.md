@@ -1,0 +1,1 @@
+NextJS 13 + TailwindCSS + framer-motion training project inspired by Javascript Mastery YouTube channel.
